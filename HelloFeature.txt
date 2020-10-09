@@ -4,5 +4,9 @@ Bitte starten
 
 Änderung Integrationshase
 
+<<<<<<< HEAD
 
 Konflikt auf GitKraken erstellen
+=======
+- Konflikt erzeugen auf GitKraken
+>>>>>>> develop
