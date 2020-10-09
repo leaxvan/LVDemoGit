@@ -1,3 +1,5 @@
+Konflikt 1
+Konflikt 2
 Documentation für das erste Feature
 
 Bitte starten
@@ -9,4 +11,3 @@ Bitte starten
 Konflikt auf GitKraken erstellen
 =======
 - Konflikt erzeugen auf GitKraken
->>>>>>> develop
