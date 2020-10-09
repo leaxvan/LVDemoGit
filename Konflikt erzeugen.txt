@@ -1,0 +1,13 @@
+- Schaun ob man sich im main oder develop befindet
+
+1: In GitHub Änderung vornehmen -> commiten
+2: In Kraken Änderung vornehmen -> Stage -> commite
+
+- Pull (Um die Git Datei zu holen)
+- Push (Git und Kraken sind unstimmig)
+- Bei "unstaged Files" auf das FIle drücken (nicht stagen!)
+- Version A oder B auswählen
+- File stagen -> commiten
+
+- Hackerl bei main (durch Doppelklick)
+- develop mit "drag and drop" in Main ziehen
